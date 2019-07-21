@@ -1,0 +1,6 @@
+C:\Users\hacker\source\repos\crud\crud\bin\Debug\crud.exe.config
+C:\Users\hacker\source\repos\crud\crud\bin\Debug\crud.exe
+C:\Users\hacker\source\repos\crud\crud\bin\Debug\crud.pdb
+C:\Users\hacker\source\repos\crud\crud\obj\Debug\crud.csproj.CoreCompileInputs.cache
+C:\Users\hacker\source\repos\crud\crud\obj\Debug\crud.exe
+C:\Users\hacker\source\repos\crud\crud\obj\Debug\crud.pdb

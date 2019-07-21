@@ -1,0 +1,7 @@
+﻿USE master; 
+GO 
+IF DB_ID ( N'TestDb' ) IS NOT NULL 
+DROP DATABASE TestDb; 
+GO 
+CREATE DATABASE TestDb; 
+GO
